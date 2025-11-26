@@ -40,7 +40,7 @@ To reproduce the results, navigate to the `experiments/` folder. The notebooks c
 | **`static.ipynb`** | **StaticPrime.** Tightness and RMS error. | **Fig. 1** |
 | **`static_detailed.ipynb`** | **StaticPrime.** Distribution of optimality ratios and excess coherence. | **Fig. 2** |
 | **`dynamic_regimes.ipynb`** | **DynamicPrime.** High-low frequency regimes. | **Fig. 3** |
-| **`represent_classify.ipynb`** | **DynamicPrime.** representation and classification capacity. | **Fig. 4 & 5** |
+| **`represent_classify.ipynb`** | **DynamicPrime.** Representation and classification capacity. | **Fig. 4 & 5** |
 
 ---
 
