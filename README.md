@@ -2,9 +2,6 @@
 
 # Primal: A Unified Deterministic Framework for Quasi-Orthogonal Hashing and Manifold Learning
 
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
-[![Paper Status](https://img.shields.io/badge/Status-Research_Code-005696?style=flat-square)]()
 
 </div>
 
