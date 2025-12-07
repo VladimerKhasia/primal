@@ -9,7 +9,7 @@
   <strong>Implementation of the paper "Primal: A Unified Deterministic Framework for Quasi-Orthogonal Hashing and Manifold Learning"</strong>
 </p>
 
-[![arXiv](https://img.shields.io/badge/arXiv-1234.56789-b31b1b.svg)](https://arxiv.org/abs/2511.20839)
+[![arXiv](https://img.shields.io/badge/arXiv-2511.20839-b31b1b.svg)](https://arxiv.org/abs/2511.20839)
 
 ## Abstract
 
